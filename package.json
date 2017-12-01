@@ -1,0 +1,27 @@
+{
+	"name": "left-pad",
+	"version": "1.0.0",
+	"description": "JavaScript String left padding utility",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"TODO: implement tests\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ExE-Boss/left-pad.git"
+	},
+	"keywords": [
+		"leftpad",
+		"left",
+		"pad",
+		"padding",
+		"string",
+		"repeat"
+	],
+	"author": "ExE Boss",
+	"license": "LGPL-3.0",
+	"bugs": {
+		"url": "https://github.com/ExE-Boss/left-pad/issues"
+	},
+	"homepage": "https://github.com/ExE-Boss/left-pad#readme"
+}
